@@ -1881,7 +1881,286 @@ rgb(255, 160, 122)
 <p>#9ACD32</p>
 </td>
 </tr> 
-  
+  <tr>
+<td width="196">
+<p>Black</p>
+</td>
+<td width="79">
+<p>#000000</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Navy</p>
+</td>
+<td width="79">
+<p>#000080</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark blue</p>
+</td>
+<td width="79">
+<p>#00008B</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Medium blue</p>
+</td>
+<td width="79">
+<p>#0000CD</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Blue</p>
+</td>
+<td width="79">
+<p>#0000FF</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark green</p>
+</td>
+<td width="79">
+<p>#006400</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Green</p>
+</td>
+<td width="79">
+<p>#008000</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Teal</p>
+</td>
+<td width="79">
+<p>#008080</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark cyan</p>
+</td>
+<td width="79">
+<p>#008B8B</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Deep sky blue</p>
+</td>
+<td width="79">
+<p>#00BFFF</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark turquoise</p>
+</td>
+<td width="79">
+<p>#00DED1</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Medium spring green</p>
+</td>
+<td width="79">
+<p>#00FA9A</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Lime</p>
+</td>
+<td width="79">
+<p>#00FF00</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Spring green</p>
+</td>
+<td width="79">
+<p>#00FF7F</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Aqua</p>
+</td>
+<td width="79">
+<p>#00FFFF</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Cyan</p>
+</td>
+<td width="79">
+<p>#00FFFF</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Midnight blue</p>
+</td>
+<td width="79">
+<p>#191970</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dodger blue</p>
+</td>
+<td width="79">
+<p>#1E90FF</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Light sea green</p>
+</td>
+<td width="79">
+<p>#20B2AA</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Forest green</p>
+</td>
+<td width="79">
+<p>#228B22</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Seagreen</p>
+</td>
+<td width="79">
+<p>#2E8B57</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark slate gray</p>
+</td>
+<td width="79">
+<p>#2F4F4F</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Lime green</p>
+</td>
+<td width="79">
+<p>#32CD32</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Medium sea green</p>
+</td>
+<td width="79">
+<p>#3CB371</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Turquoise</p>
+</td>
+<td width="79">
+<p>#40E0D0</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Royal blue</p>
+</td>
+<td width="79">
+<p>#4169E1</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Steel blue</p>
+</td>
+<td width="79">
+<p>#4682B4</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark slate blue</p>
+</td>
+<td width="79">
+<p>#483D8B</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Medium turquoise</p>
+</td>
+<td width="79">
+<p>#48D1CC</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Indigo</p>
+</td>
+<td width="79">
+<p>#4B0082</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dark olive green</p>
+</td>
+<td width="79">
+<p>#556B2F</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Cadet blue</p>
+</td>
+<td width="79">
+<p>#5F9EA0</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Cornflower blue</p>
+</td>
+<td width="79">
+<p>#6495ED</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Medium aquamarine</p>
+</td>
+<td width="79">
+<p>#66CDAA</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Dim gray</p>
+</td>
+<td width="79">
+<p>#696969</p>
+</td>
+</tr>
 </tbody>
 </table>
 
