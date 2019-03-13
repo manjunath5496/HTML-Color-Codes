@@ -760,10 +760,10 @@ rgb(255, 160, 122)
 </tbody>
 </table>
 
-
+<p>&nbsp;</p>
 <p><strong>Names and hex codes of the 256 RGB Colours</strong></p>
 <p>(Alphabetical Listing)</p>
-<p>&nbsp;</p>
+
 <table>
 <tbody>
 <tr>
