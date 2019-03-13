@@ -92,7 +92,7 @@
   
   <tr class="color">
 <td class="color-name">
-IndianRed
+Indian Red
 </td>
 <td class="color-hex selectable">
 #CD5C5C
@@ -103,7 +103,7 @@ rgb(205, 92, 92)
 </tr>
 <tr class="color">
 <td class="color-name">
-LightCoral
+Light Coral
 </td>
 <td class="color-hex selectable">
 #F08080
@@ -125,7 +125,7 @@ rgb(250, 128, 114)
 </tr>
 <tr class="color">
 <td class="color-name">
-DarkSalmon
+Dark Salmon
 </td>
 <td class="color-hex selectable">
 #E9967A
@@ -136,7 +136,7 @@ rgb(233, 150, 122)
 </tr>
 <tr class="color">
 <td class="color-name">
-LightSalmon
+Light Salmon
 </td>
 <td class="color-hex selectable">
 #FFA07A
