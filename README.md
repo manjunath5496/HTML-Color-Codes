@@ -152,10 +152,10 @@ rgb(255, 160, 122)
 </table>
 
 
+</br>
+<p> <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pdf2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> PDF</font> </a></p>
 
-
-
-
+</br>
 
 
 
