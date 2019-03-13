@@ -1,3 +1,104 @@
+
+<table>
+<thead>
+<tr style="height: 13px;">
+<th class="text-center" style="height: 13px; text-align: center;">Color</th>
+<th class="text-center" style="height: 13px; text-align: center;">HTML code</th>
+<th class="text-center" style="height: 13px; text-align: center;">HTML code</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">black</td>
+<td class="text-center" style="height: 13px; text-align: center;">#000000</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,0,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">silver</td>
+<td class="text-center" style="height: 13px; text-align: center;">#c0c0c0</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(192,192,192)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">gray</td>
+<td class="text-center" style="height: 13px; text-align: center;">#808080</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(128,128,128)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">white</td>
+<td class="text-center" style="height: 13px; text-align: center;">#ffffff</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(255,255,255)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">maroon</td>
+<td class="text-center" style="height: 13px; text-align: center;">#800000</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(128,0,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">red</td>
+<td class="text-center" style="height: 13px; text-align: center;">#ff0000</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(255,0,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">purple</td>
+<td class="text-center" style="height: 13px; text-align: center;">#800080</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(128,0,128)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">fuchsia</td>
+<td class="text-center" style="height: 13px; text-align: center;">#ff00ff</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(255,0,255)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">green</td>
+<td class="text-center" style="height: 13px; text-align: center;">#008000</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,128,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">lime</td>
+<td class="text-center" style="height: 13px; text-align: center;">#00ff00</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,255,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">olive</td>
+<td class="text-center" style="height: 13px; text-align: center;">#808000</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(128,128,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">yellow</td>
+<td class="text-center" style="height: 13px; text-align: center;">#ffff00</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(255,255,0)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">navy</td>
+<td class="text-center" style="height: 13px; text-align: center;">#000080</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,0,128)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">blue</td>
+<td class="text-center" style="height: 13px; text-align: center;">#0000ff</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,0,255)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">teal</td>
+<td class="text-center" style="height: 13px; text-align: center;">#008080</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,128,128)</td>
+</tr>
+<tr style="height: 13px;">
+<td class="text-center" style="height: 13px; text-align: center;">aqua</td>
+<td class="text-center" style="height: 13px; text-align: center;">#00ffff</td>
+<td class="text-center" style="height: 13px; text-align: center;">rgb(0,255,255)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
 <table>
 <tbody>
 <tr>
