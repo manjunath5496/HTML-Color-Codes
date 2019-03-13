@@ -2,9 +2,9 @@
 <table>
 <thead>
 <tr style="height: 13px;">
-<th class="text-center" style="height: 13px; text-align: center;">Color</th>
-<th class="text-center" style="height: 13px; text-align: center;">Hexadecimal HTML code</th>
-<th class="text-center" style="height: 13px; text-align: center;">RGB HTML code</th>
+<th class="text-center" style="height: 13px; text-align: center;">Color Name</th>
+<th class="text-center" style="height: 13px; text-align: center;">Hex Color Code</th>
+<th class="text-center" style="height: 13px; text-align: center;">RGB Color Code</th>
 </tr>
 </thead>
 <tbody>
@@ -102,8 +102,8 @@
 <table>
 <tbody>
 <tr>
-<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;"> Color</span></th>
-<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Hexadecimal HTML Code</span></th>
+<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Color Name</span></th>
+<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Hex Color Code</span></th>
 </tr>
 <tr>
 <td><center><span style="color: black; font-family: Consolas; font-size: medium;"> Alice Blue </span></center></td>
