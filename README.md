@@ -1609,7 +1609,278 @@ rgb(255, 160, 122)
 </td>
 </tr>  
   
-  
+ <tr>
+<td width="198">
+<p>Pale violet red</p>
+</td>
+<td width="86">
+<p>#DB7093</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Papaya whip</p>
+</td>
+<td width="86">
+<p>#FFEFD5</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Peach puff</p>
+</td>
+<td width="86">
+<p>#FFDAB9</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Peru</p>
+</td>
+<td width="86">
+<p>#CD853F</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Pink</p>
+</td>
+<td width="86">
+<p>#FFC8CB</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Plum</p>
+</td>
+<td width="86">
+<p>#DDA0DD</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Powder blue</p>
+</td>
+<td width="86">
+<p>#B0E0E6</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Purple</p>
+</td>
+<td width="86">
+<p>#800080</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Red</p>
+</td>
+<td width="86">
+<p>#FF0000</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Rosy brown</p>
+</td>
+<td width="86">
+<p>#BC8F8F</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Royal blue</p>
+</td>
+<td width="86">
+<p>#4169E1</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Saddle brown</p>
+</td>
+<td width="86">
+<p>#8B4513</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Salmon</p>
+</td>
+<td width="86">
+<p>#FA8072</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Sandy brown</p>
+</td>
+<td width="86">
+<p>#F4A460</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Seagreen</p>
+</td>
+<td width="86">
+<p>#2E8B57</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Sea shell</p>
+</td>
+<td width="86">
+<p>#FFF5EE</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Sienna</p>
+</td>
+<td width="86">
+<p>#A0522D</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Silver</p>
+</td>
+<td width="86">
+<p>#C0C0C0</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Sky blue</p>
+</td>
+<td width="86">
+<p>#87CEEB</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Slate blue</p>
+</td>
+<td width="86">
+<p>#6A5ACD</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Snow</p>
+</td>
+<td width="86">
+<p>#FFFAFA</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Spring green</p>
+</td>
+<td width="86">
+<p>#00FF7F</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Steel blue</p>
+</td>
+<td width="86">
+<p>#4682B4</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Tan</p>
+</td>
+<td width="86">
+<p>#D2B48C</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Thistle</p>
+</td>
+<td width="86">
+<p>#D8BFD8</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Teal</p>
+</td>
+<td width="86">
+<p>#008080</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Tomato</p>
+</td>
+<td width="86">
+<p>#FF6347</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Turquoise</p>
+</td>
+<td width="86">
+<p>#40E0D0</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Violet</p>
+</td>
+<td width="86">
+<p>#EE82EE</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Wheat</p>
+</td>
+<td width="86">
+<p>#F5DEB3</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>White</p>
+</td>
+<td width="86">
+<p>#FFFFFF</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Whitesmoke</p>
+</td>
+<td width="86">
+<p>#F5F5F5</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Yellow</p>
+</td>
+<td width="86">
+<p>#FFFF00</p>
+</td>
+</tr>
+<tr>
+<td width="198">
+<p>Yellow green</p>
+</td>
+<td width="86">
+<p>#9ACD32</p>
+</td>
+</tr> 
   
 </tbody>
 </table>
