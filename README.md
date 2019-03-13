@@ -88,6 +88,68 @@
 <td class="text-center" style="height: 13px; text-align: center;">#00ffff</td>
 <td class="text-center" style="height: 13px; text-align: center;">rgb(0,255,255)</td>
 </tr>
+  
+  
+  <tr class="color">
+<td class="color-name">
+IndianRed
+</td>
+<td class="color-hex selectable">
+<strong>#CD5C5C</strong>
+</td>
+<td class="color-rgb selectable">
+<strong>rgb(205, 92, 92)</strong>
+</td>
+</tr>
+<tr class="color">
+<td class="color-name">
+<strong>LightCoral</strong>
+</td>
+<td class="color-hex selectable">
+<strong>#F08080</strong>
+</td>
+<td class="color-rgb selectable">
+<strong>rgb(240, 128, 128)</strong>
+</td>
+</tr>
+<tr class="color">
+<td class="color-name">
+<strong>Salmon</strong>
+</td>
+<td class="color-hex selectable">
+<strong>#FA8072</strong>
+</td>
+<td class="color-rgb selectable">
+<strong>rgb(250, 128, 114)</strong>
+</td>
+</tr>
+<tr class="color">
+<td class="color-name">
+<strong>DarkSalmon</strong>
+</td>
+<td class="color-hex selectable">
+<strong>#E9967A</strong>
+</td>
+<td class="color-rgb selectable">
+<strong>rgb(233, 150, 122)</strong>
+</td>
+</tr>
+<tr class="color">
+<td class="color-name">
+<strong>LightSalmon</strong>
+</td>
+<td class="color-hex selectable">
+<strong>#FFA07A</strong>
+</td>
+<td class="color-rgb selectable">
+<strong>rgb(255, 160, 122)</strong>
+</td>
+</tr>
+  
+  
+  
+  
+  
 </tbody>
 </table>
 
