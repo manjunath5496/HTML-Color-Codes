@@ -762,7 +762,7 @@ rgb(255, 160, 122)
 
 <p>&nbsp;</p>
 <p><strong>Names and hex codes of the 256 RGB Colours</strong></p>
-<p>(Alphabetical Listing)</p>
+<p> <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pdf1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> PDF</font> </a></p>
 
 <table>
 <tbody>
