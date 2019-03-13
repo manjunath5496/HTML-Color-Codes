@@ -3,8 +3,8 @@
 <thead>
 <tr style="height: 13px;">
 <th class="text-center" style="height: 13px; text-align: center;">Color</th>
-<th class="text-center" style="height: 13px; text-align: center;">HTML code</th>
-<th class="text-center" style="height: 13px; text-align: center;">HTML code</th>
+<th class="text-center" style="height: 13px; text-align: center;">Hexadecimal HTML code</th>
+<th class="text-center" style="height: 13px; text-align: center;">RGB HTML code</th>
 </tr>
 </thead>
 <tbody>
@@ -103,7 +103,7 @@
 <tbody>
 <tr>
 <th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;"> Color</span></th>
-<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">HTML Code</span></th>
+<th bgcolor="#0074B4"><span style="color: white; font-family: Consolas; font-size: medium;">Hexadecimal HTML Code</span></th>
 </tr>
 <tr>
 <td><center><span style="color: black; font-family: Consolas; font-size: medium;"> Alice Blue </span></center></td>
