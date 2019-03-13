@@ -1,4 +1,4 @@
-<table border="4" cellpadding="2" cellspacing="2" bordercolor="#0074B4" width="60%">
+<table>
   <tr>
     <th bgcolor="#0074B4"><font size="3" face="Consolas" color="white">#</th>
     <th bgcolor="#0074B4"><font size="3" face="Consolas" color="white"> Color</th>
