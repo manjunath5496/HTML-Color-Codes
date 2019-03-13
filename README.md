@@ -2443,6 +2443,283 @@ rgb(255, 160, 122)
 </td>
 </tr>
 
+<tr>
+<td width="189">
+<p>Dark khaki</p>
+</td>
+<td width="91">
+<p>#BDB76B</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Silver</p>
+</td>
+<td width="91">
+<p>#C0C0C0</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Medium violet red</p>
+</td>
+<td width="91">
+<p>#C71585</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Indian red</p>
+</td>
+<td width="91">
+<p>#CD5C5C</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Peru</p>
+</td>
+<td width="91">
+<p>#CD853F</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Chocolate</p>
+</td>
+<td width="91">
+<p>#D2691E</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Tan</p>
+</td>
+<td width="91">
+<p>#D2B48C</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Light grey</p>
+</td>
+<td width="91">
+<p>#D3D3D3</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Thistle</p>
+</td>
+<td width="91">
+<p>#D8BFD8</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Orchid</p>
+</td>
+<td width="91">
+<p>#DA70D6</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Goldenrod</p>
+</td>
+<td width="91">
+<p>#DAA520</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Pale violet red</p>
+</td>
+<td width="91">
+<p>#DB7093</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Crimson</p>
+</td>
+<td width="91">
+<p>#DC143C</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Gainsboro</p>
+</td>
+<td width="91">
+<p>#DCDCDC</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Plum</p>
+</td>
+<td width="91">
+<p>#DDA0DD</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Burlywood</p>
+</td>
+<td width="91">
+<p>#DEB887</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Light cyan</p>
+</td>
+<td width="91">
+<p>#E0FFFF</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Lavender</p>
+</td>
+<td width="91">
+<p>#E6E6FA</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Dark salmon</p>
+</td>
+<td width="91">
+<p>#E9967A</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Violet</p>
+</td>
+<td width="91">
+<p>#EE82EE</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Pale goldenrod</p>
+</td>
+<td width="91">
+<p>#EEE8AA</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Light coral</p>
+</td>
+<td width="91">
+<p>#F08080</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Khaki</p>
+</td>
+<td width="91">
+<p>#F0E68C</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Alice blue</p>
+</td>
+<td width="91">
+<p>#F0F8FF</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Honeydew</p>
+</td>
+<td width="91">
+<p>#F0FFF0</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Azure</p>
+</td>
+<td width="91">
+<p>#F0FFFF</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Sandy brown</p>
+</td>
+<td width="91">
+<p>#F4A460</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Wheat</p>
+</td>
+<td width="91">
+<p>#F5DEB3</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Beige</p>
+</td>
+<td width="91">
+<p>#F5F5DC</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Whitesmoke</p>
+</td>
+<td width="91">
+<p>#F5F5F5</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Mint cream</p>
+</td>
+<td width="91">
+<p>#F5FFFA</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Ghost white</p>
+</td>
+<td width="91">
+<p>#F8F8FF</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Salmon</p>
+</td>
+<td width="91">
+<p>#FA8072</p>
+</td>
+</tr>
+<tr>
+<td width="189">
+<p>Antique white</p>
+</td>
+<td width="91">
+<p>#FAEBD7</p>
+</td>
+</tr>
+
+
+
+
+
 
 
 
