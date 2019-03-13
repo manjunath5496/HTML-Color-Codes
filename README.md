@@ -1336,7 +1336,278 @@ rgb(255, 160, 122)
 </td>
 </tr>
   
-  
+<tr>
+<td width="197">
+<p>Light salmon</p>
+</td>
+<td width="88">
+<p>#FFA07A</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light sea green</p>
+</td>
+<td width="88">
+<p>#20B2AA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light sky blue</p>
+</td>
+<td width="88">
+<p>#87CEFA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light slate gray</p>
+</td>
+<td width="88">
+<p>#778899</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light steel blue</p>
+</td>
+<td width="88">
+<p>#B0C4DE</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light yellow</p>
+</td>
+<td width="88">
+<p>#FFFFE0</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Lime</p>
+</td>
+<td width="88">
+<p>#00FF00</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Lime green</p>
+</td>
+<td width="88">
+<p>#32CD32</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Linen</p>
+</td>
+<td width="88">
+<p>#FAF0E6</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Magenta</p>
+</td>
+<td width="88">
+<p>#FF00FF</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Maroon</p>
+</td>
+<td width="88">
+<p>#800000</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium aquamarine</p>
+</td>
+<td width="88">
+<p>#66CDAA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium blue</p>
+</td>
+<td width="88">
+<p>#0000CD</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium orchid</p>
+</td>
+<td width="88">
+<p>#BA55D3</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium purple</p>
+</td>
+<td width="88">
+<p>#9370DB</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium sea green</p>
+</td>
+<td width="88">
+<p>#3CB371</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium slate blue</p>
+</td>
+<td width="88">
+<p>#7B68EE</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium spring green</p>
+</td>
+<td width="88">
+<p>#00FA9A</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium turquoise</p>
+</td>
+<td width="88">
+<p>#48D1CC</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Medium violet red</p>
+</td>
+<td width="88">
+<p>#C71585</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Midnight blue</p>
+</td>
+<td width="88">
+<p>#191970</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Mint cream</p>
+</td>
+<td width="88">
+<p>#F5FFFA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Misty rose</p>
+</td>
+<td width="88">
+<p>#FFE4E1</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Moccasin</p>
+</td>
+<td width="88">
+<p>#FFE4B5</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Navajo white</p>
+</td>
+<td width="88">
+<p>#FFDEAD</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Navy</p>
+</td>
+<td width="88">
+<p>#000080</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Old lace</p>
+</td>
+<td width="88">
+<p>#FDF5E6</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Olive drab</p>
+</td>
+<td width="88">
+<p>#6B8E23</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Orange</p>
+</td>
+<td width="88">
+<p>#FFA500</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Orange red</p>
+</td>
+<td width="88">
+<p>#FF4500</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Orchid</p>
+</td>
+<td width="88">
+<p>#DA70D6</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Pale goldenrod</p>
+</td>
+<td width="88">
+<p>#EEE8AA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Pale green</p>
+</td>
+<td width="88">
+<p>#98FB98</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Pale turquoise</p>
+</td>
+<td width="88">
+<p>#AFEEEE</p>
+</td>
+</tr>  
   
   
   
