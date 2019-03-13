@@ -2716,7 +2716,278 @@ rgb(255, 160, 122)
 </td>
 </tr>
 
-
+<tr>
+<td width="197">
+<p>Linen</p>
+</td>
+<td width="85">
+<p>#FAF0E6</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light goldenrod yellow</p>
+</td>
+<td width="85">
+<p>#FAFAD2</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Old lace</p>
+</td>
+<td width="85">
+<p>#FDF5E6</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Red</p>
+</td>
+<td width="85">
+<p>#FF0000</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Fuchsia</p>
+</td>
+<td width="85">
+<p>#FF00FF</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Magenta</p>
+</td>
+<td width="85">
+<p>#FF00FF</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Deep pink</p>
+</td>
+<td width="85">
+<p>#FF1493</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Orange red</p>
+</td>
+<td width="85">
+<p>#FF4500</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Tomato</p>
+</td>
+<td width="85">
+<p>#FF6347</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Hot pink</p>
+</td>
+<td width="85">
+<p>#FF69B4</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Coral</p>
+</td>
+<td width="85">
+<p>#FF7F50</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Dark orange</p>
+</td>
+<td width="85">
+<p>#FF8C00</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light salmon</p>
+</td>
+<td width="85">
+<p>#FFA07A</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Orange</p>
+</td>
+<td width="85">
+<p>#FFA500</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light pink</p>
+</td>
+<td width="85">
+<p>#FFB6C1</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Pink</p>
+</td>
+<td width="85">
+<p>#FFC8CB</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Gold</p>
+</td>
+<td width="85">
+<p>#FFD700</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Peach puff</p>
+</td>
+<td width="85">
+<p>#FFDAB9</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Navajo white</p>
+</td>
+<td width="85">
+<p>#FFDEAD</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Moccasin</p>
+</td>
+<td width="85">
+<p>#FFE4B5</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Bisque</p>
+</td>
+<td width="85">
+<p>#FFE4C4</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Misty rose</p>
+</td>
+<td width="85">
+<p>#FFE4E1</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Blanched almond</p>
+</td>
+<td width="85">
+<p>#FFEBCD</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Papaya whip</p>
+</td>
+<td width="85">
+<p>#FFEFD5</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Lavender blush</p>
+</td>
+<td width="85">
+<p>#FFF0F5</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Sea shell</p>
+</td>
+<td width="85">
+<p>#FFF5EE</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Cornsilk</p>
+</td>
+<td width="85">
+<p>#FFF8DC</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Lemon chiffon</p>
+</td>
+<td width="85">
+<p>#FFFACD</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Floral white</p>
+</td>
+<td width="85">
+<p>#FFFAF0</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Snow</p>
+</td>
+<td width="85">
+<p>#FFFAFA</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Yellow</p>
+</td>
+<td width="85">
+<p>#FFFF00</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Light yellow</p>
+</td>
+<td width="85">
+<p>#FFFFE0</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Ivory</p>
+</td>
+<td width="85">
+<p>#FFFFF0</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>White</p>
+</td>
+<td width="85">
+<p>#FFFFFF</p>
+</td>
+</tr>
 
 
 
