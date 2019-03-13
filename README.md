@@ -95,58 +95,56 @@
 IndianRed
 </td>
 <td class="color-hex selectable">
-<strong>#CD5C5C</strong>
+#CD5C5C
 </td>
 <td class="color-rgb selectable">
-<strong>rgb(205, 92, 92)</strong>
+rgb(205, 92, 92)
 </td>
 </tr>
 <tr class="color">
 <td class="color-name">
-<strong>LightCoral</strong>
+LightCoral
 </td>
 <td class="color-hex selectable">
-<strong>#F08080</strong>
+#F08080
 </td>
 <td class="color-rgb selectable">
-<strong>rgb(240, 128, 128)</strong>
+rgb(240, 128, 128)
 </td>
 </tr>
 <tr class="color">
 <td class="color-name">
-<strong>Salmon</strong>
+Salmon
 </td>
 <td class="color-hex selectable">
-<strong>#FA8072</strong>
+#FA8072
 </td>
 <td class="color-rgb selectable">
-<strong>rgb(250, 128, 114)</strong>
+rgb(250, 128, 114)
 </td>
 </tr>
 <tr class="color">
 <td class="color-name">
-<strong>DarkSalmon</strong>
+DarkSalmon
 </td>
 <td class="color-hex selectable">
-<strong>#E9967A</strong>
+#E9967A
 </td>
 <td class="color-rgb selectable">
-<strong>rgb(233, 150, 122)</strong>
+rgb(233, 150, 122)
 </td>
 </tr>
 <tr class="color">
 <td class="color-name">
-<strong>LightSalmon</strong>
+LightSalmon
 </td>
 <td class="color-hex selectable">
-<strong>#FFA07A</strong>
+#FFA07A
 </td>
 <td class="color-rgb selectable">
-<strong>rgb(255, 160, 122)</strong>
+rgb(255, 160, 122)
 </td>
 </tr>
-  
-  
   
   
   
