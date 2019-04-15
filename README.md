@@ -3000,9 +3000,46 @@ rgb(255, 160, 122)
 </table>
 
 
+<p><strong>Programming Books: Every Developer Should Read  </strong></p>
 
 
 
+1. Code Complete</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+2. Clean Code</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+3.  The Pragmatic Programmer: From Journeyman to Master</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+4.  The Mythical Man-Month: Essays on Software Engineering</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+5. Refactoring: Improving the Design of Existing Code </br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+6. Code: The Hidden Language of Computer Hardware and Software</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+7. The Clean Coder</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+
+8. Coders at Work: Reflections on the Craft of Programming</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
+
+9. The Little Schemer</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+10. 97 Things Every Programmer Should Know</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+                
+                
+                
+                
 
 
 
