@@ -3035,8 +3035,15 @@ rgb(255, 160, 122)
 10. 97 Things Every Programmer Should Know</br>
                 <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
+11. Writing Solid Code</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
-                
+12. Facts and Fallacies of Software Engineering</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                                
+13. The Self-Taught Programmer</br>
+                <a href="https://github.com/manjunath5496/HTML-Color-Codes/blob/master/pro13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                    
                 
                 
 
